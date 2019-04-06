@@ -15,9 +15,9 @@
     // Import non-ES modules as default imports.
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    // jsx flag
+    // Jsx flag
     "jsx": "react",
-    // おまじない。後で調べる
+    // Adjust to target
     "lib": ["esnext"]
   },
   "include": [
