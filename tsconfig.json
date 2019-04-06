@@ -17,10 +17,10 @@
     "allowSyntheticDefaultImports": true,
     // jsx flag
     "jsx": "react",
-    // おまじない。後で調べる
+    // TODO おまじない。後で調べる
     "lib": ["esnext"]
   },
   "include": [
-    "__sources__"
+    "src"
   ]
 }
